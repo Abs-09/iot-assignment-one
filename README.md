@@ -1,4 +1,4 @@
-# IOT Assignment 1
+# IOT Assignment 1 - For lazy and last minute students
 
 ## How to run the project
 
